@@ -5,5 +5,6 @@ Formerly he was CTO and co-founder at IntelMovidius and has worked in the semico
 He co-founded Movidius as CTO in 2005 which went on to pioneer low-power embedded vision and neural network processing in edge devices before being acquired by Intel in November 2016. 
 He also co-authored numerous funding proposals including Horizon Europe NeuroSoC, H2020 Bonseyes and participated in multiple FP7 projects.
 He has been granted 41 US patents and has published numerous journal and conference papers (http://bit.do/moloned).
+Outside of work David is a secretary and judo assistant coach @ Cabra Judo Club and has a long held interest in international human solidarity and human rights since his student days in the 1980s.
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
